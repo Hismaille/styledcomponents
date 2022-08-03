@@ -2,7 +2,7 @@ export const extratoLista = {
   updates: [
     {
       id: "123131321",
-      type: "Restaurante",
+      type: "Alimentação",
       value: "150,00",
       date: "11 JUN",
       from: "Bonna Parma",

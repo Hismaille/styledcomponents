@@ -1,8 +1,8 @@
 
-import styled from 'styled-components'
+import styled, { ThemeConsumer } from 'styled-components'
 
 const Titulo = styled.h1`
-  color: grey;
+  color: ${({theme}) => theme.text};
   padding: 25px 0;
 `;
 
